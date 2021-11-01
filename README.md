@@ -1,3 +1,8 @@
+ 
+
+![](faceRecognition.gif)
+
+<!--
 ### Hi there 👋
 
 Bachelor of Computer Science  
@@ -6,11 +11,8 @@ Bachelor of Computer Science
 
 Interests:  
 └──> Artificial intelligence  
-└──> Automation  
+└──> Automation 
 
-![](faceRecognition.gif)
-
-<!--
 **WathikAhmed/WathikAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
