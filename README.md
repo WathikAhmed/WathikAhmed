@@ -8,7 +8,7 @@ Interests:
 └──> Artificial intelligence  
 └──> Automation  
 
-![](Artificial intelligence - Face recognition.gif)
+![](faceRecognition.gif)
 
 <!--
 **WathikAhmed/WathikAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
