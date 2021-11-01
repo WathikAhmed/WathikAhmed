@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Bachelor of Computer Science
+└──> Cyber Security Major
+└──> Cloud Computing Minor
+
+Interests:
+└──> Artificial intelligence
+└──> Automation
+
 <!--
 **WathikAhmed/WathikAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
